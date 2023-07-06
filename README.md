@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm YouJin</h1>
 <h3 align="center">Passionate front-end junior developer</h3>
 <h5 align="center">🐣 I’m currently learning React, JavaScript, TypeScript 🐣</h5>
-<br></br>
 
 <h3 align="left">✏️ My Blog</h3>
 <h1></h1>
