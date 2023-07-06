@@ -30,9 +30,8 @@
 
 
 <h3 align="left">🐱 My github</h3>
+<h1></h1>
 
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youjin-cho&show_icons=true&locale=en&layout=compact" alt="youjin-cho" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youjin-cho&show_icons=true&locale=en&layout=compact" alt="youjin-cho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youjin-cho&show_icons=true&locale=en" alt="youjin-cho" /></p>
